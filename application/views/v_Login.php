@@ -55,7 +55,7 @@
 </div>
 <!-- /.login-box -->
 
-<p style="color: white;" class="text-center">Copyright &copy; 2023 | Dede Herman, M. Nurwakhid, M. R. Syidiq, Saherih.</p>
+<p style="color: white;" class="text-center">Copyright &copy; 2023 | Dede Herman, M. Nurwakhid, M. Rasyid Siddiq, Saherih.</p>
 
 <!-- jQuery 3 -->
 <script src="<?= base_url('assets/')?>bower_components/jquery/dist/jquery.min.js"></script>
